@@ -39,6 +39,16 @@ console.log(produc(buscarProducto(produc, inventario)));
 */
 /// Ejercicio 4: Calcular Promedio de Notas ///
 
-function
+function calcularPromedio(notas) {
+    let notass = num1 * num2
+    let total = notas / 2 
+}
+
+let num1 = parseFloat(prompt("Escribe tu 1 nota: "))
+let num2 = parseFloat(prompt("Escribe tu 1 nota: "))
+
+console.log("Tu promedia de nota es: " + total)
+
+
 
 
